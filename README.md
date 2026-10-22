@@ -1,5 +1,5 @@
 # Pong written in Common Lisp
-![](https://imgur.com/fnkq5VP)
+![](https://i.imgur.com/fnkq5VP.gif)
 
 ## Dependencies:
 [CL-SDL2](https://github.com/lispgames/cl-sdl2)
